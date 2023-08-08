@@ -1,6 +1,7 @@
 # Wallet Frontend 🏦
 
-https://main--mern-wallet.netlify.app/login
+https://inspiring-cannoli-5df046.netlify.app
+
 ## Overview 📝
 
 The Wallet Frontend is a React application that provides a user-friendly interface for managing
